@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8052972e-8ea7-46d5-8b6b-5615ee0c59e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="26oq6IY3xshnL47M7m2mhQIy1ij" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="/MyBookShop" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions" />
+      <option name="moduleName" value="MyBookShop" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.37" />
+          <option name="number" value="0" />
+          <option name="path" value="D:\JavaEnvironment\apache-tomcat-9.0.37" />
+          <option name="version" value="9.0.37.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8052972e-8ea7-46d5-8b6b-5615ee0c59e6" name="Default Changelist" comment="" />
+      <created>1648100110023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648100110023</updated>
+      <workItem from="1648100120479" duration="2970000" />
+      <workItem from="1648197138758" duration="1655000" />
+      <workItem from="1650346556132" duration="4444000" />
+      <workItem from="1650502167893" duration="606000" />
+      <workItem from="1650502852214" duration="15000" />
+      <workItem from="1650502899451" duration="1781000" />
+      <workItem from="1650504737282" duration="1084000" />
+      <workItem from="1650505855530" duration="575000" />
+      <workItem from="1650519718437" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="105" key="#Project_Structure" timestamp="1648197452404">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="105" key="#Project_Structure/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648197452404" />
+    <state x="223" y="91" width="1089" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648100388166">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="223" y="91" width="1089" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648100388166" />
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1650506831042">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1650506831042" />
+    <state width="1491" height="318" key="GridCell.Tab.0.bottom" timestamp="1648206054904">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1491" height="318" key="GridCell.Tab.0.bottom/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648206054904" />
+    <state width="1491" height="318" key="GridCell.Tab.0.center" timestamp="1648206054904">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1491" height="318" key="GridCell.Tab.0.center/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648206054904" />
+    <state width="1491" height="318" key="GridCell.Tab.0.left" timestamp="1648206054904">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1491" height="318" key="GridCell.Tab.0.left/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648206054904" />
+    <state width="1491" height="318" key="GridCell.Tab.0.right" timestamp="1648206054904">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1491" height="318" key="GridCell.Tab.0.right/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648206054904" />
+    <state x="249" y="30" key="SettingsEditor" timestamp="1650505972286">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="249" y="30" key="SettingsEditor/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648100535853" />
+    <state x="249" y="30" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1650505972286" />
+    <state x="466" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1650519722389">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="466" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1650519722389" />
+    <state x="466" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1650505878504" />
+    <state x="328" y="576" key="com.intellij.ide.util.TipDialog/1080.24.1536.840/0.30.1080.1890@0.30.1080.1890" timestamp="1650346557955" />
+    <state x="457" y="180" width="621" height="534" key="find.popup" timestamp="1648197558976">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="457" y="180" width="621" height="534" key="find.popup/0.30.1536.834/-1920.0.1536.834@0.30.1536.834" timestamp="1648197558976" />
+    <state x="425" y="204" key="run.anything.popup" timestamp="1650504757820">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="425" y="204" key="run.anything.popup/0.30.1536.834@0.30.1536.834" timestamp="1650504757820" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1650506818580">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1650506818580" />
+  </component>
+</project>
